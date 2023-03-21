@@ -1,8 +1,8 @@
 import './slider.css'
-import logo_atração from 'C:/Users/Conrado/Desktop/consult/src/components/imagens/u-magnet.png'
-import logo_interacao from 'C:/Users/Conrado/Desktop/consult/src/components/imagens/pessoas.png'
-import logo_vendas from 'C:/Users/Conrado/Desktop/consult/src/components/imagens/nota-de-dolar.png'
-import logo_fidelizacao from 'C:/Users/Conrado/Desktop/consult/src/components/imagens/estrela.png'
+import logo_atração from '/components/imagens/u-magnet.png'
+import logo_interacao from '/components/imagens/pessoas.png'
+import logo_vendas from '/components/imagens/nota-de-dolar.png'
+import logo_fidelizacao from '/components/imagens/estrela.png'
 import { motion } from 'framer-motion'
 import Explanation_box from '../explanation_box';
 
