@@ -31,3 +31,7 @@
     width: 52%;
     background-color: rgb(17, 67, 109);
 }
+.Section1 button a{
+    text-decoration: none;
+    color: white;
+}

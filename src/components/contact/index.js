@@ -11,7 +11,7 @@ const Contact = ()=>{
         console.log('Form enviado!')
     }
     return(
-        <section className='section6'>
+        <section className='section6' id='contact'>
             <h1>Entre em contato!</h1>
             <form onSubmit={onsave}>
                 <label>Nome...</label>

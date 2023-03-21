@@ -36,4 +36,8 @@
     margin: 30px auto;
     max-width: 600px;
 }
+.section3 button a{
+    text-decoration: none;
+    color: white;
+}
 
