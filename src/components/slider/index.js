@@ -1,8 +1,8 @@
 import './slider.css'
-import logo_atração from '/components/imagens/u-magnet.png'
-import logo_interacao from '/components/imagens/pessoas.png'
-import logo_vendas from '/components/imagens/nota-de-dolar.png'
-import logo_fidelizacao from '/components/imagens/estrela.png'
+import logo_atração from '../imagens/u-magnet.png'
+import logo_interacao from '../imagens/pessoas.png'
+import logo_vendas from '../imagens/nota-de-dolar.png'
+import logo_fidelizacao from '../imagens/estrela.png'
 import { motion } from 'framer-motion'
 import Explanation_box from '../explanation_box';
 

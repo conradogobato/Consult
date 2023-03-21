@@ -1,8 +1,9 @@
 import Info_box from '../info_box'
 import './our_services.css'
-import logo_strategy from '/components/imagens/estrategia.png'
-import logo_marketing from '/components/imagens/digital-marketing.png'
-import logo_traffic from '/components/imagens/midia-social.png'
+import logo_strategy from '../imagens/estrategia.png'
+import logo_marketing from '../imagens/digital-marketing.png'
+import logo_traffic from '../imagens/midia-social.png'
+
 
 
 const Our_services = () =>{

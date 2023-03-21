@@ -1,6 +1,6 @@
 import './clients.css'
-import logo_kibon from '/components/imagens/kibon1024.png'
-import logo_brasvalle from '/components/imagens/BrasValle-removebg-preview.png'
+import logo_kibon from '../imagens/kibon1024.png'
+import logo_brasvalle from '../imagens/BrasValle-removebg-preview.png'
 
 const Clients = ()=>{
     return(
