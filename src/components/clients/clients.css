@@ -1,0 +1,23 @@
+.clients{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin: 40px;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.162);
+    justify-content: center;
+    flex-direction: row;
+}
+.client{
+    justify-content: center;
+    text-align: center;
+    margin: 20px 90px;
+}
+.client p{
+    color: white;
+    font-style: italic;
+}
+.client img{
+    max-width: 180px;
+    max-height: 180px;
+}

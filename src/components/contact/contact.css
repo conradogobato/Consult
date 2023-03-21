@@ -1,0 +1,62 @@
+.section6{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    margin-top: 200px;
+    color: white;
+    margin-bottom: 200px;
+}
+.section6 h1{
+    font-size: 2.5em;
+}
+.section6 form{
+    text-align: start;
+    background-image: linear-gradient(
+        rgba(6, 21, 98, 0.988),
+        rgba(4, 67, 106, 0)
+      );
+    width: 700px;
+    border-radius:20px ;
+    padding: 80px;
+    display: flex;
+    flex-direction: column;
+}
+.section6 form button{
+    align-self: center;
+    margin-top: 20px;
+    transition: 0.4s;
+    background-color: rgb(46, 120, 185);
+    border: none;
+    color: white;
+    font-size: large;
+    border-radius: 50px;
+    width: 50%;
+    height: 50px;
+}
+.section6 form button:hover{
+    cursor: pointer;
+    height: 54px;
+    width: 52%;
+    background-color: rgb(17, 67, 109);
+}
+.section6 label{
+    margin-bottom: 10px;
+}
+.section6 form input{
+    width: 90%;
+    height: 30px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+}
+@media(max-width: 880px){
+    .section6 form{
+        max-width: 300px;
+        padding: 0;
+        background-image: none;
+        background-color: transparent;
+    }
+    .section6 form input{
+        width: 100%;
+        
+    }
+}

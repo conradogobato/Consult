@@ -1,0 +1,33 @@
+.Section1{
+    padding-top: 200px;
+    max-width: 900px;
+    display: block;
+    flex-wrap: wrap;
+    color:white;
+    text-align: center;
+    height: 400px;
+}
+.Section1 h1{
+    font-size: 2.8em;
+}
+.Section1 p{
+    margin-top: 60px;
+    font-size: larger;
+}
+.Section1 button{
+    margin-top: 20px;
+    transition: 0.4s;
+    background-color: rgb(46, 120, 185);
+    border: none;
+    color: white;
+    font-size: large;
+    border-radius: 50px;
+    width: 50%;
+    height: 50px;
+}
+.Section1 button:hover{
+    cursor: pointer;
+    height: 54px;
+    width: 52%;
+    background-color: rgb(17, 67, 109);
+}

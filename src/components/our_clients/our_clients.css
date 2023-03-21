@@ -1,0 +1,24 @@
+.section5{
+    max-width: 1000px;
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.section5 h2{
+    color: rgb(10, 108, 149);
+}
+.section5 h1{
+    color: white;
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    margin: auto;
+    font-size: 2.5em;
+    max-width: 900px;
+}
+.section5 p{
+
+    color: white;
+}

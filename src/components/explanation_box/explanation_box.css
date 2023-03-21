@@ -1,0 +1,17 @@
+.box_exp{
+    text-align: start;
+    margin: 30px;
+    width: 400px;
+    padding: 15px;
+    background-color: rgba(22, 114, 180, 0.371);
+    border-radius: 20px;
+    color: white;
+}
+.box_exp img{
+    max-width: 64px;
+    max-height: 64px
+}
+@media(max-width: 900px){
+    .box_exp{width: 280px;
+    height: 280px;} 
+}

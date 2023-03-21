@@ -1,0 +1,27 @@
+.section4{
+    overflow: hidden;
+    max-width: 900px;
+    margin-top: 40px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    color: white;
+}
+.carousel{
+    margin: auto;
+    cursor: grab;
+    overflow: hidden;
+}
+.hold_boxes{
+    display: flex;
+}
+
+.hold_boxes p{
+    margin: 0;
+}
+@media(max-width: 900px){
+    .section4{
+        max-width: 350px;
+    }
+}

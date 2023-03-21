@@ -1,0 +1,39 @@
+.section3{
+    max-width: 900px;
+    margin-top: 200px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    color: white;
+}
+.section3 button{
+    margin: 20px auto;
+    transition: 0.4s;
+    background-color: rgb(46, 120, 185);
+    border: none;
+    color: white;
+    font-size: large;
+    border-radius: 50px;
+    width: 50%;
+    height: 50px;
+}
+.section3 button:hover{
+    cursor: pointer;
+    height: 54px;
+    width: 52%;
+    background-color: rgb(17, 67, 109);
+}
+.section3 h1{
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    margin: 40px auto;
+    font-size: 2.5em;
+    max-width: 900px;
+}
+.section3 p{
+    margin: 30px auto;
+    max-width: 600px;
+}
+
